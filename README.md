@@ -13,6 +13,8 @@ Created with Android Studio and Parse.com
 
 4.) Sign Up and try login 
 
-5.) If you have question, try catch me
+5.) Drink cold beer and clap your hands twice
 
-6.) Drink cold beer and clap your hands twice
+6.) If you have question, try catch me
+
+
